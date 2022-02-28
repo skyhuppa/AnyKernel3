@@ -21,7 +21,7 @@ clean:
 	@rm -rf modules/vendor/lib/modules/modules.{alias,dep,softdep,load}
 	@rm -rf modules/vendor/lib/modules/*.ko
 	@rm -rf dtbo.img
-	@rm -rf dtb/dtb.img
+	@rm -rf *dtb*
 	@rm -rf Image
 	@rm -rf *.zip*
 	@echo "Cleaned Up." 
