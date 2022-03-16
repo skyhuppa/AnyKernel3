@@ -1,7 +1,7 @@
 # Zip Naming
-NAME ?= AtomX-Kernel
+NAME ?= AtomX
 CODENAME ?= lisa
-VERSION := aplha
+VERSION := v1.0
 DATE := $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)-$(VERSION)-$(DATE)
