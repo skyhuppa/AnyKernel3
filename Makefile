@@ -1,7 +1,7 @@
 # Zip Naming
 NAME ?= AtomX
 CODENAME ?= lisa
-VERSION := v1.0
+VERSION ?= v1.0
 DATE := $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)-$(VERSION)-$(DATE)
