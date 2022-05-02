@@ -1,6 +1,6 @@
 # Zip Naming
-NAME ?= AtomX
-CODENAME ?= lisa
+NAME ?= skyhuppa
+CODENAME ?= land
 VERSION ?= v1.0
 DATE := $(shell date "+%H%M")
 
