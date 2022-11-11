@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=land-Kernel
+kernel.string=Infinix-X573-Kernel
 do.devicecheck=1
 do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=land
+device.name1=Infinix-X573
 supported.versions=11.0-12.0
 supported.patchlevels=
 '; } # end properties
