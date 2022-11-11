@@ -1,6 +1,6 @@
 # Zip Naming
-NAME ?= skyhuppa
-CODENAME ?= olive
+NAME ?= Skyhuppa
+CODENAME ?= X573
 VERSION ?= v1.0
 DATE := $(shell date "+%H%M")
 
