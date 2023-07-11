@@ -1,6 +1,6 @@
 # Zip Naming
 NAME ?= Skyhuppa
-CODENAME ?= X573
+CODENAME ?= Infinix-X573
 VERSION ?= v1.0
 DATE := $(shell date "+%H%M")
 
